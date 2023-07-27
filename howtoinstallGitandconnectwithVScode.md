@@ -1,4 +1,5 @@
 # How to install Git and connect it with your Visual Studio Code in Windows.  
+Please make sure to close any running instances of Visual Studio Code before installation. As a restart of VsCode would be required for the changes to take effect. 
 ## Download Git  
 Download the Git installer from the official Git website: https://git-scm.com/download/win   
 ### Run the installer  
@@ -21,4 +22,4 @@ you have successfully installed Git on your device.
 To check if it is installed correctly you can open command prompt and type "git --version" without quotations. If it shows the git version, Git has been successfully installed.
 
 ## Connecting with Visual Studio Code  
-If you had Visual Studio Code already installed on your device git should be working 
+Run VScode git should be working.
